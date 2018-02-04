@@ -1,0 +1,2 @@
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\PresentationLayer\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\PresentationLayer\Debug\PresentationLayer.csproj.CoreCompileInputs.cache

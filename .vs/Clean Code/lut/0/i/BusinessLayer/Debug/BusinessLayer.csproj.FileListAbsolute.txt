@@ -1,0 +1,6 @@
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\b\BusinessLayer\bin\Debug\BusinessLayer.dll
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\b\BusinessLayer\bin\Debug\BusinessLayer.pdb
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\BusinessLayer\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\BusinessLayer\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\BusinessLayer\Debug\BusinessLayer.dll
+Z:\Projects\Pluralsight course demos\pluralsight-clean-code-demo\before\.vs\Clean Code\lut\0\i\BusinessLayer\Debug\BusinessLayer.pdb
