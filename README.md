@@ -1,4 +1,4 @@
-# Clean Code Day at Volano
+# Clean Code Day at Volano Solutions
 
 ## Prerequisites 
 
